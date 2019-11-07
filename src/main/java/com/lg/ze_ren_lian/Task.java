@@ -1,4 +1,4 @@
-package com.lg.ze_ren_lian.base;
+package com.lg.ze_ren_lian;
 
 /**
  * @author Xulg

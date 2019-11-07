@@ -1,6 +1,6 @@
 package com.lg.ze_ren_lian.filter;
 
-import com.lg.ze_ren_lian.base.Task;
+import com.lg.ze_ren_lian.Task;
 import org.springframework.core.annotation.Order;
 import org.springframework.stereotype.Component;
 
